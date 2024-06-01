@@ -4,8 +4,8 @@
 
 * Conceitos e objetivos iniciais sobre tipos de IaC:
 
-  - Provisionamento de recursos
-  - Gerência de Configuração
+  - Provisionamento de recursos;
+  - Gerência de Configuração;
 
   Benefícios da virtualização.
 
